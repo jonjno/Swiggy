@@ -1,0 +1,70 @@
+/* #heading {
+  color: red;
+} */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .header {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+}
+.img {
+  padding-left: 20px;
+} */
+/* .nav-item > ul {
+  display: flex;
+  list-style-type: none;
+}
+
+.nav-item > ul > li {
+  margin: 10px;
+} */
+
+/* .res-card {
+  height: 300px;
+  width: 200px; */
+/* border: 1px solid black; */
+/* padding-left: 20px;
+  padding: 10px;
+  margin: 20px;
+} */
+
+/* .res-card:hover {
+  cursor: pointer;
+  border: 2px solid black;
+}
+
+.search {
+  padding: 10px;
+}
+.RestroContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.fltr-btn {
+  margin: 10px;
+  cursor: pointer;
+} */
+
+/* .shrimmer-container {
+  display: flex;
+  flex-wrap: nowrap;
+}
+.shrimmer-card {
+  height: 100px;
+  width: 200px;
+  background-color: grey;
+  margin: 10px;
+}
+.login-btn {
+  cursor: pointer;
+  margin: 10px;
+}
+.filter {
+  display: flex;
+} */
